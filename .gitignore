@@ -1,0 +1,11 @@
+# vscode
+.vscode
+
+# WebStorm
+/.idea
+
+# local env files
+.env
+
+# dependencies
+/node_modules
